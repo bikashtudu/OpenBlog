@@ -17,8 +17,8 @@ title: OpenBlog
 email: tudu.bikash@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   OpenBlog is website for developers, and hobbyist to share their experience and thoughts to the world.
-baseurl: "ghpages" # the subpath of your site, e.g. /blog
-url: "http://bikashtudu.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ghpages.bikashtudu.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bikashtudu
 
 # Build settings
